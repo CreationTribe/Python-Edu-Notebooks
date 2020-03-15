@@ -1,5 +1,5 @@
-#STEMPrime
-##The STEMPrime and TerraPrime Simulators
+# STEMPrime
+## The STEMPrime and TerraPrime Simulators
 
 The STEMPrime and TerraPrime simulators are the first step in our research phase for The AI STEM Drive.
 
@@ -7,7 +7,7 @@ These simulators are designed to show the physical viability of the STEM Epicono
 
 The STEMPrime Research-Cast is to coincide with the development of the simulators.
 
-#markdown notes
+# markdown notes
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
