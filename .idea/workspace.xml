@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30ae9875-c35f-4ed1-9034-2c9ed54298e7" name="Default Changelist" comment="" />
+    <list default="true" id="30ae9875-c35f-4ed1-9034-2c9ed54298e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/STEM-Prime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/STEM-Prime.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +26,7 @@
   <component name="JupyterTrust" id="468bd6cf-d256-4706-b12c-3ae50e51176c">
     <option name="files">
       <option value="stf.ipynb" />
+      <option value="test notebooks/bootcamp.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="1VJFaFQNenKHJ5UY04gmz13YYGB" />
@@ -32,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/test notebooks/bootcamp.ipynb" />
     <property name="idea.background.editor" value="$USER_HOME$/BusinessProjects/AI STEM Drive/reddit_icon.png,4,scale,center" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -40,7 +47,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="stemprime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -95,6 +102,9 @@
       <updated>1576963353093</updated>
       <workItem from="1576963398408" duration="10464000" />
       <workItem from="1576981693708" duration="2999000" />
+      <workItem from="1584468785692" duration="2273000" />
+      <workItem from="1585102655767" duration="3814000" />
+      <workItem from="1585143872318" duration="3113000" />
     </task>
     <servers />
   </component>
@@ -130,14 +140,14 @@
       <screen x="0" y="20" width="1050" height="1660" />
     </state>
     <state width="793" height="205" key="GridCell.Tab.0.right/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1576985167645" />
-    <state x="52" y="277" width="935" height="728" key="SettingsEditor" timestamp="1576984566546">
+    <state x="52" y="277" width="935" height="728" key="SettingsEditor" timestamp="1585143734610">
       <screen x="0" y="20" width="1050" height="1660" />
     </state>
-    <state x="52" y="277" width="935" height="728" key="SettingsEditor/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1576984566546" />
-    <state x="370" y="587" key="com.intellij.ide.util.TipDialog" timestamp="1584468785706">
+    <state x="52" y="277" width="935" height="728" key="SettingsEditor/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1585143734610" />
+    <state x="370" y="587" key="com.intellij.ide.util.TipDialog" timestamp="1585143976402">
       <screen x="0" y="20" width="1050" height="1660" />
     </state>
-    <state x="370" y="587" key="com.intellij.ide.util.TipDialog/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1584468785705" />
+    <state x="370" y="587" key="com.intellij.ide.util.TipDialog/1050.400.1920.1080/0.20.1050.1660@0.20.1050.1660" timestamp="1585143976402" />
     <state x="1727" y="769" key="com.intellij.ide.util.TipDialog/1050.400.1920.1080/0.20.1050.1660@1050.400.1920.1080" timestamp="1576963403086" />
     <state width="523" height="426" key="javadoc.popup" timestamp="1576973253602">
       <screen x="0" y="20" width="1050" height="1660" />
