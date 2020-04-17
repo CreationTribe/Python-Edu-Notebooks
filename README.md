@@ -1,10 +1,15 @@
 # STEMPrime
 ## The STEMPrime and TerraPrime Simulations
 
+![STEMPrime Banner](stemprime_banner.png)
+Format: ![]()
 
 ### As of now, all of the preliminary algorithmic work is being completed in a series of private Jupyter Notebooks.
 ### I expect that the first attempt to collect and connect all of the varying pieces will not begin until sometime around the turn of 2021 (six to nine months from 2020.04)
 
+The STEMPrime/TerraPrime simulations are to show the physical viability of [The AI STEM Drive](https://stemdrive.ai/)
+Once the models are complete, and several hundred-thousand simulations have been completed; the final analysis of the
+data - if the theory holds - will function as a proof of concept; green-lighting development of The AI STEM Drive.
 
 The STEMPrime and TerraPrime simulations are the first step in the last phase of our research efforts to find out
 whether or not STEM Theory holds water.
