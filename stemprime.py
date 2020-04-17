@@ -1,10 +1,5 @@
 # import
 
-name = 'thommy'.title()
-date_today = 24
-welcomemsg = "hit "+name+' '+str(date_today)
-
-print(welcomemsg)
 
 nodes = ['BACKPORTS','DISABLER','DUNKIRK','BRASSWALL']
 nodes.append('BAGTROPE')

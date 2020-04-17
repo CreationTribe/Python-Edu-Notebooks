@@ -1,130 +1,20 @@
 # STEMPrime
-## The STEMPrime and TerraPrime Simulators
-
-The STEMPrime and TerraPrime simulators are the first step in our research phase for The AI STEM Drive.
-
-These simulators are designed to show the physical viability of the STEM Epiconomy.
-
-The STEMPrime Research-Cast is to coincide with the development of the simulators.
-
-# markdown notes
-
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-http://github.com - automatic!
-[GitHub](http://github.com)
-
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-
-I think you should use an
-`<addr>` element here instead.
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
-    function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
-
-def foo():
-    if not bar:
-        return True
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-Any reference to a commit’s SHA-1 hash will be automatically converted into a link to that commit on GitHub.
-16c999e8c71134401a78d4d46435517b2271d6ac
-mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
-mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
-
-Any number that refers to an Issue or Pull Request will be automatically converted into a link.
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
-
-Typing an @ symbol, followed by a username, will notify that person
-
-Any URL (like http://www.github.com/) will be automatically converted into a clickable link
-
- (like ~~this~~) will appear crossed out
+## The STEMPrime and TerraPrime Simulations
 
 
+### As of now, all of the preliminary algorithmic work is being completed in a series of private Jupyter Notebooks.
+### I expect that the first attempt to collect and connect all of the varying pieces will not begin until sometime around the turn of 2021 (six to nine months from 2020.04)
 
 
+The STEMPrime and TerraPrime simulations are the first step in the last phase of our research efforts to find out whether or not STEM Theory holds water.
 
+The goal here is not to find out whether or not the STEM Epiconomy is a viable social structure.
+The idea of an epiconomy (specifically this, the STEM-based epiconomy), unfortunately is not something that can be tested until the first few prototypes of the actual AI STEM Drive have been developed and debugged.
+Only then can we construct a "test-bed city" (or some other, smaller implementation), and test it with a population of actual free-thinking individuals.
+Even though the theory is sound (based on the modern revisions and interpretations of Maslow's conceptual idea of Self-Actualization, The Self-Determination Theory of Motivation specifically and other aspects of psychology and sociology), when assembled in such a manner as has never before been tested; caution is necessary.
 
+STEM Theory is the idea that a network (which, in all honesty, could easily run atop our current world-wide internet infrastructure with the exception of some small, yet significant per-household alterations) of artificial learning agents might be all that is needed to support the pre-defined STEM Epiconomy.
 
+I am considering D-Wave as a means for calculating the enormous amount of maximization and minimization problems inherent in such a network as this.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[The STEMPrime Researchcast](https://anchor.fm/stemprime/) is to coincide with the development of these simulations.
