@@ -26,7 +26,19 @@ STEM Theory is the idea that a network (which, in all honesty, could easily run 
 infrastructure with the exception of some small, yet significant per-household alterations) of artificial learning
 agents might be all that is needed to support the pre-defined STEM Epiconomy.
 
-I am considering D-Wave as a means for calculating the enormous amount of maximization and minimization problems
-inherent in such a network as this.
+## Tentatively Entertained Technologies
+
+I am considering [D-Wave](https://dwavesys.com/) as a means for calculating the enormous amount of maximization and minimization problems
+inherent in such a network as this. D-Wave, thus far, seems to be the most proactively engaged quantum computing 
+platform. That, and the fact that they have granted Phobos Technologies limited use to their systems has cemented
+their computers as being our foremost choice.
+
+[Nupic](https://github.com/numenta/nupic) has won its place for the more abstract functions of The AI STEM Drive. 
+The reason being is that Nupic is the only ML library that utilizes HTM theory. Based wholly on an in-depth analysis
+of the neocortex and the temporal nature of biological neural networks; Nupic is the only library capable of executing
+the temporally sensitive requirements of The AI STEM Drive.
+
+[TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/): both being exceptional choices
+for AI/ML work as well as already being familiar with these platforms; are the current libraries in use for the sims.
 
 [The STEMPrime Researchcast](https://anchor.fm/stemprime/) is to coincide with the development of these simulations.
