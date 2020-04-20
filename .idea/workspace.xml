@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ae9875-c35f-4ed1-9034-2c9ed54298e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MARKDOWNDICTIONARY.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/stf-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/stf-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stemprime.py" beforeDir="false" afterPath="$PROJECT_DIR$/stemprime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stf.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/stf.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +29,10 @@
       <option value="test notebooks/Python Bootcamp/04 bootcamp.ipynb" />
       <option value="test notebooks/Python Bootcamp/05 bootcamp.ipynb" />
       <option value="test notebooks/Python Bootcamp/06 bootcamp.ipynb" />
+      <option value="test notebooks/STEMPrime/stem scribbles.ipynb" />
+      <option value="test notebooks/STEMPrime/stem useful bits.ipynb" />
+      <option value="test notebooks/TerraPrime/terra scribbles.ipynb" />
+      <option value="test notebooks/TerraPrime/terra useful bits.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="1VJFaFQNenKHJ5UY04gmz13YYGB" />
@@ -108,7 +110,8 @@
       <workItem from="1585877245989" duration="3067000" />
       <workItem from="1586224605885" duration="610000" />
       <workItem from="1586504951150" duration="34000" />
-      <workItem from="1587082061501" duration="4323000" />
+      <workItem from="1587082061501" duration="5530000" />
+      <workItem from="1587343976916" duration="1608000" />
     </task>
     <servers />
   </component>
