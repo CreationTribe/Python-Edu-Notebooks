@@ -55,11 +55,12 @@
     <property name="settings.editor.selected.configurable" value="Jupyter Settings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jupyter notebooks" />
+      <recent name="$PROJECT_DIR$/test notebooks/Python Bootcamp" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/test notebooks/Python Bootcamp" />
     </key>
   </component>
   <component name="RunManager">
@@ -111,7 +112,7 @@
       <workItem from="1586224605885" duration="610000" />
       <workItem from="1586504951150" duration="34000" />
       <workItem from="1587082061501" duration="5530000" />
-      <workItem from="1587343976916" duration="1608000" />
+      <workItem from="1587343976916" duration="2112000" />
     </task>
     <servers />
   </component>

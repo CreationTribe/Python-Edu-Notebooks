@@ -63,6 +63,23 @@
 # down from the meta-node's so we don't lose coherence.
 #
 
+
+#######################################################################
+#######################################################################
+####
+#### HEY, WHEN YOU TWO FINALLY CLONE THIS, PLEASE USE BRANCHING :)
+#### PLEASE DON'T PUSH UP TO THE MASTER BRANCH, MAKE SURE YOU'RE ALWAYS
+#### ON A SEPARATE BRANCH.
+####
+#### THAT BEING SAID, I'LL TRY TO HAVE THAT BRANCHING/VERSIONING PDF
+#### OFF TO BOTH OF YOU SOON. YOU SHOULD HAVE IT BY TOMORROW. PLEASE
+#### FOLLOW THE GUIDELINES, IT'LL MAKE SHIT 1000X EASIER FOR ALL OF US
+####
+####    KTHNX BUTTS
+####
+#######################################################################
+#######################################################################
+
 # C.T.'s NOTES:
 #
 
