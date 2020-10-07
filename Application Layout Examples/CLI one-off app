@@ -1,0 +1,38 @@
+# From: https://realpython.com/python-application-layouts/
+
+
+helloworld/
+│
+├── .gitignore
+├── helloworld.py
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── setup.py
+└── tests.py
+
+
+This is pretty straightforward: everything is in the same directory. The files shown here are not necessarily
+exhaustive, but I recommend keeping the number of files to a minimum if you plan on using a basic layout like this.
+ Some of these files will be new to you, so let’s take a quick look at what each of them does.
+
+.gitignore: This is a file that tells Git which kinds of files to ignore, like IDE clutter or local configuration
+files. Our Git tutorial has all the details, and you can find sample .gitignore files for Python projects here.
+
+helloworld.py: This is the script that you’re distributing. As far as naming the main script file goes, I recommend
+that you go with the name of your project (which is the same as the name of the top-level directory).
+
+LICENSE: This plaintext file describes the license you’re using for a project. It’s always a good idea to have one if
+ you’re distributing code. The filename is in all caps by convention.
+
+Note: Need help selecting a license for your project? Check out ChooseALicense.
+
+README.md: This is a Markdown (or reStructuredText) file documenting the purpose and usage of your application.
+Crafting a good README is an art, but you can find a shortcut to mastery here.
+
+requirements.txt: This file defines outside Python dependencies and their versions for your application.
+
+setup.py: This file can also be used to define dependencies, but it really shines for other work that needs to be done
+ during installation. You can read more about both setup.py and requirements.txt in our guide to Pipenv.
+
+tests.py: This script houses your tests, if you have any. You should have some.

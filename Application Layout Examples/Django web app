@@ -1,0 +1,64 @@
+From: https://realpython.com/python-application-layouts/
+
+project/
+│
+├── project/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+│
+└── manage.py
+
+
+after you run 'python manage.py startapp app'
+
+
+app/
+│
+├── migrations/
+│   └── __init__.py
+│
+├── __init__.py
+├── admin.py
+├── apps.py
+├── models.py
+├── tests.py
+└── views.py
+
+
+recommended directory structure for any barebones open-source Django app
+
+
+project/
+│
+├── app/
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   │
+│   ├── migrations/
+│   │   └── __init__.py
+│   │
+│   ├── models.py
+│   ├── tests.py
+│   └── views.py
+│
+├── docs/
+│
+├── project/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+│
+├── static/
+│   └── style.css
+│
+├── templates/
+│   └── base.html
+│
+├── .gitignore
+├── manage.py
+├── LICENSE
+└── README.md

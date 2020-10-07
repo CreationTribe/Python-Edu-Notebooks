@@ -1,0 +1,39 @@
+From: https://realpython.com/python-application-layouts/
+
+
+helloworld/
+│
+├── helloworld/
+│   ├── __init__.py
+│   ├── helloworld.py
+│   └── helpers.py
+│
+├── tests/
+│   ├── helloworld_tests.py
+│   └── helpers_tests.py
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── setup.py
+
+
+
+
+The only difference here is that your application code is now all held in the helloworld subdirectory—this directory
+is named after your package—and that we’ve added a file called __init__.py. Let’s introduce these new files:
+
+helloworld/__init__.py: This file has many functions, but for our purposes it tells the Python interpreter that this
+ directory is a package directory. You can set up this __init__.py file in a way that enables you to import classes
+  and methods from the package as a whole, instead of knowing the internal module structure and importing from
+   helloworld.helloworld or helloworld.helpers.
+
+Note: For a deeper discussion on internal packages and __init__.py, our Python modules and packages overview has
+ you covered.
+
+helloworld/helpers.py: As mentioned above, we’ve moved much of helloworld.py’s business logic to this file. Thanks
+to __init__.py, outside modules will be able to access these helpers simply by importing from the helloworld package.
+
+tests/: We’ve moved our tests into their own directory, a pattern you’ll continue to see as our program structures
+gain complexity. We have also split our tests into separate modules, mirroring our package’s structure.
