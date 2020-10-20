@@ -82,3 +82,4 @@ Typing an @ symbol, followed by a username, will notify that person
 Any URL (like http://www.github.com/) will be automatically converted into a clickable link
 
  (like ~~this~~) will appear crossed out
+
